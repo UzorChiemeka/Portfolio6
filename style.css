@@ -1,0 +1,76 @@
+body {
+  background-image: url("WhatsApp Image 2026-10-08 at 11.49.06.jpeg");
+  background-size: cover;
+  margin: 0px;
+}
+#portfolio {
+  text-align: center;
+}
+.navi ul {
+  list-style-type: none;
+
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+.navi a {
+  text-decoration: none;
+  color: antiquewhite;
+  font-size: larger;
+  display: inline-block;
+  text-align: center;
+}
+.navi a:hover {
+  color: aqua;
+}
+.navi li {
+}
+h1 {
+  color: antiquewhite;
+}
+p {
+  font-size: larger;
+
+  color: antiquewhite;
+}
+h2 {
+  color: antiquewhite;
+}
+img {
+  border-radius: 20px;
+  height: 150px;
+  width: 150px;
+}
+#home {
+  color: aqua;
+}
+
+#homep {
+  font-size: large;
+  color: aqua;
+}
+#about {
+  color: gold;
+}
+#skill {
+  color: rgb(205, 224, 207);
+}
+#projects {
+  color: lightsalmon;
+}
+#ed {
+  color: limegreen;
+}
+#achieve {
+  color: magenta;
+}
+#contact {
+  color: rgba(1, 162, 255, 0.966);
+}
+#img1 {
+  background-color: white;
+}
+video {
+  width: 400px;
+  height: 300px;
+}
